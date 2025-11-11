@@ -122,7 +122,7 @@ body {
   background-image: url("../images/participant-photo.png");
 }
 #participant-2 .participant-name::before {
-  /* content: "Your Name Here"; */
+  content: "Chairat(Jiab)";
 }
 #participant-2 .participant-quote::before {
   /* content: "Your inspirational quote here." */
