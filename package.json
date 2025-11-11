@@ -1,0 +1,26 @@
+{
+  "name": "jsd-hello-world-template",
+  "version": "1.0.0",
+  "description": "A template for JavaScript Development class showcase projects",
+  "main": "index.html",
+  "scripts": {
+    "setup-css": "node check-and-update-css.js"
+  },
+  "keywords": [
+    "education",
+    "javascript",
+    "git",
+    "github",
+    "template",
+    "classroom",
+    "learner-project",
+    "collaboration",
+    "css",
+    "html",
+    "beginner",
+    "tutorial",
+    "showcase"
+  ],
+  "author": "Neetibut Vasinondha",
+  "license": "MIT"
+}

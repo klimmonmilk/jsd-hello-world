@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+.DS_Store
+.env* 
+
+check-and-update-css.js
+
+INSTRUCTOR_GUIDE.md
+LEARNER_GUIDE.md
+README.md
