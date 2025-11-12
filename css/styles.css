@@ -726,16 +726,17 @@ body {
 
 /* Next participant */
 #participant-35 {
-	background-color: white;
+  background-color: white;
 }
 #participant-35 .profile-photo {
-	background-image: url("../images/participant-photo.png");
+  background-image: url("../images/participant-photo.png");
 }
 #participant-35 .participant-name::before {
-  content: "35_Rungarun (Mameaw)";
+  font-size: 13px;
+  content: "35_Rungarun\00A0(Mameaw)";
 }
 #participant-35 .participant-quote::before {
-	/* content: "Your inspirational quote here." */
+  /* content: "Your inspirational quote here." */
 }
 
 /* Next participant */
