@@ -897,9 +897,10 @@ body {
 }
 #participant-42 .profile-photo {
   background-image: url("https://s.isanook.com/ns/0/ui/1887/9438646/chomismaterialgirl_1718354077257.jpeg");
+  border-color: #e6e281;
 }
 #participant-42 .participant-name::before {
-  content: "42_Thipwimon";
+  content: "42_Thipwimon(Ann)";
 }
 #participant-42 .participant-quote::before {
   content: "Work hard in silence and let success be your noise."
